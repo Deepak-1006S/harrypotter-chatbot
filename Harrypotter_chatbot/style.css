@@ -1,0 +1,38 @@
+body {
+    font-family: 'Georgia', serif;
+    background-image: url('https://i.imgur.com/QrUJ6OE.jpg');
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+}
+
+.chatbox {
+    margin-top: 100px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 15px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 0px 0px 20px gold;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: gold;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.subtitle {
+    font-style: italic;
+    color: #ccc;
+}
